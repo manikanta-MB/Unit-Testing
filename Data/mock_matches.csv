@@ -1,0 +1,31 @@
+season,team1,team2,extra_conceded_runs_team1,extra_conceded_runs_team2,winner
+2016,Chennai Super Kings,Mumbai Indians,10,15,Chennai Super Kings
+2016,Royal Challengers Bangalore,Kolkata Knight Riders,15,8,Kolkata Knight Riders
+2016,Kings XI Punjab,Delhi Capitals,20,10,Delhi Capitals
+2016,Chennai Super Kings,Kolkata Knight Riders,12,8,Chennai Super Kings
+2016,Royal Challengers Bangalore,Kings XI Punjab,10,15,Royal Challengers Bangalore
+2016,Rajastan Royals,Mumbai Indians,15,5,Mumbai Indians
+2016,Kolkata Knight Riders,Rajastan Royals,5,10,Kolkata Knight Riders
+2016,Chennai Super Kings,Delhi Capitals,10,5,Chennai Super Kings
+2016,Delhi Capitals,Rajastan Royals,5,10,Delhi Capitals
+2016,Kings XI Punjab,Rajastan Royals,10,10,Kings XI Punjab
+2016,Royal Challengers Bangalore,Rajastan Royals,15,10,Rajastan Royals
+2017,Chennai Super Kings,Mumbai Indians,10,15,Chennai Super Kings
+2017,Royal Challengers Bangalore,Kolkata Knight Riders,15,8,Kolkata Knight Riders
+2017,Kings XI Punjab,Delhi Capitals,20,10,Delhi Capitals
+2017,Chennai Super Kings,Kolkata Knight Riders,12,8,Chennai Super Kings
+2017,Royal Challengers Bangalore,Kings XI Punjab,10,15,Royal Challengers Bangalore
+2017,Rajastan Royals,Mumbai Indians,15,5,Mumbai Indians
+2017,Chennai Super Kings,Delhi Capitals,10,5,Chennai Super Kings
+2017,Delhi Capitals,Rajastan Royals,5,10,Delhi Capitals
+2017,Kings XI Punjab,Rajastan Royals,10,10,Kings XI Punjab
+2017,Royal Challengers Bangalore,Rajastan Royals,15,10,Rajastan Royals
+2018,Chennai Super Kings,Mumbai Indians,10,15,Chennai Super Kings
+2018,Royal Challengers Bangalore,Kolkata Knight Riders,15,8,Kolkata Knight Riders
+2018,Kings XI Punjab,Delhi Capitals,20,10,Delhi Capitals
+2018,Royal Challengers Bangalore,Kings XI Punjab,10,15,Royal Challengers Bangalore
+2018,Rajastan Royals,Mumbai Indians,15,5,Mumbai Indians
+2018,Kolkata Knight Riders,Rajastan Royals,5,10,Kolkata Knight Riders
+2018,Chennai Super Kings,Delhi Capitals,10,5,Chennai Super Kings
+2018,Delhi Capitals,Rajastan Royals,5,10,Delhi Capitals
+2018,Kings XI Punjab,Rajastan Royals,10,10,Kings XI Punjab
